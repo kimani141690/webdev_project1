@@ -1,0 +1,70 @@
+body {
+
+    background-image: url("projectimages/martin-katler-1kOIl9vu4cY-unsplash.jpg");
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 6em;
+    margin-right: 30em;
+
+    font-family: "Poppins", sans-serif;
+}
+
+.Category_id {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 47em;
+    margin-bottom: 2em;
+
+
+
+}
+
+
+.sub-category_name {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 40em;
+    margin-bottom: 2em;
+}
+
+.sub-category_id {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 40em;
+    margin-bottom: 2em;
+}
+
+.buttons {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 42.5em;
+}
+
+input {
+
+    height: 20px;
+    flex: 0 0 15px;
+
+    width: 1000px;
+    border: solid;
+    border-radius: 5px;
+}

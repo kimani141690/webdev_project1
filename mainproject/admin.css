@@ -1,0 +1,17 @@
+.title{
+
+    display:flex ;
+    background-color: black;
+    color: #AB0010;
+    height: 10%;
+    padding-bottom: 20px;
+    padding-left: 30%;
+    
+}
+.sidebar{
+ 
+    width: 25%;
+    background-color: black;
+    color: white;
+
+}   

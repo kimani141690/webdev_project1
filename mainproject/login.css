@@ -1,0 +1,25 @@
+body{
+
+    background-color: #AB0010;
+}
+.title{
+
+    display: block;
+    margin-left: 100px;
+        /* justify-content: space-between; */
+        /* margin-right: 400PX; */
+        color:white;
+
+}
+.title h1+h1{
+
+    margin-left: 300px;
+    /* adds another 3oopx margin to the left of the  initial 100px margin */
+    color:white;
+}
+.content{
+
+    margin-left: 250px;
+    display: block;
+    /* justify-content: space-between; */
+}

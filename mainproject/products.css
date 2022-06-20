@@ -1,0 +1,110 @@
+body{
+
+    background-image:url("projectimages/mona-siswanto-be4eoee4who-unsplash\ \(1\).jpg"); 
+   
+    background-size:cover; 
+   background-color: white;
+   background-repeat: no-repeat;
+   background-position: right;
+   
+   }
+   .header{
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10em;
+    margin-right: 20em;
+    color: #AB0010;
+
+    font-family: "Poppins", sans-serif;
+}
+
+.product_name{
+
+    display: block;
+      margin-left: 20em;
+   
+    margin-bottom: 2em;
+  
+}
+.product_id{
+    display: block;
+    margin-left: 20em;
+        margin-bottom: 2em;
+    
+
+    
+}
+.product_image{
+
+    display: block;
+    margin-left: 20em;
+    margin-bottom: 2em;
+
+   }
+
+.sub_category{
+
+    display: block;
+    margin-left: 20em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+
+}
+
+.unit_price{
+
+    display: block;
+    margin-left: 20em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    
+}
+.time{
+    display:block;
+    justify-content:space-between;
+    margin-left: 20em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+.description{
+    display: block;
+    margin-left: 20em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+.buttons{
+        
+    display: flex;
+    justify-content:space-between;
+    margin-left: 20em;
+    margin-right: 27em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+input,select{
+
+    height: 40px;
+    flex: 0 0 15px;
+    width:500px;
+
+        width: 500px;
+        border: solid;
+        border-radius: 5px;
+
+}
+select{
+margin-bottom: 2em;
+
+}
+.description textarea{
+margin-top: 2em;
+    width: 30em;
+}
+
+.time input{
+
+    width: 400px;
+}

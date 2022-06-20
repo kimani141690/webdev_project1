@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.navigation {
+
+    padding: 1.2em;
+
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.navleft {
+
+    display: flex;
+}
+
+.navleft input {
+    margin: 0 1em;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 1em;
+    border: 1.7px solid grey;
+
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+
+    margin: 0 2.5em;
+
+}
+
+nav ul li img {
+    width: 20px;
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+li {
+
+    list-style: none;
+
+}
+
+.abovefold {
+
+    background-color:#AB0010 ;
+    height: 90vh;
+    padding: 0 5em;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#hero-image {
+
+    width: 600px;
+    height: 400px;
+    padding-top: 20vh;
+    object-fit: cover;
+
+}
+
+.brand {
+
+    color: white;
+    padding-top: 20vh;
+
+}
+
+.brand h3 span {
+
+    font-size: 5em;
+}
+
+.callToAction {
+    display: flex;
+    align-items: center;
+    margin-top: 5em;
+
+}
+
+#stepconfident {
+    margin-left: 8em;
+}
+
+#CTA {
+    height: 30px;
+    margin-left: 1.2em;
+
+
+}
+
+#benefitlist {
+
+    display: flex;
+    margin: 2em 1.2em;
+}
+
+.benefit {
+
+    margin-left: 2.2em;
+
+}
+
+.B1 {
+
+    display: flex;
+}
+
+.B1 img {
+
+    height: 20 px;
+    width: 30px;
+
+}
+
+.feautures {
+
+    display: flex;
+}
+
+.feautureslist h3 {
+
+    margin-left: 1.2em;
+}
+
+.pics img {
+
+    height: 20em;
+    width: 18em;
+    margin-left: 1.2em;
+}
+
+.socialproof {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+.Testimonials h3{
+    margin-left: 10px;
+    padding: 1.2em;
+
+}
+.testimonialimage {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.testimonialimage img {
+
+    display: flex;
+    padding: 1.2em;
+    min-height: 20px;
+    width: 120px;
+}
+
+.connectWithUs {
+
+    display: flex;
+    flex-direction: column;
+    margin-right: 30%;
+    padding-left: 3em;
+    align-items: center;
+
+}
+.connectWithUs a{
+    color:black;
+    display: block;
+    align-items: center;
+
+    
+}
+
+.social img {
+
+    height: 25px;
+    width: 25px;
+    margin-top: 2em;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ .information { 
+     display: block;
+
+    background-color: black;
+    height: 90vh;
+    display: flex;
+  
+}
+
+.uslinks{
+
+  margin-top: 3em;
+  margin-left: 5em;
+     color: white; 
+ height: 10vh; 
+
+}
+.uslinks a{
+
+    color:whitesmoke;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+ 
+
+.customerservice{
+
+    margin-left: 5em;
+    margin-top: 3em;
+    color:whitesmoke;
+    
+
+}
+
+.customerservice a{
+
+    color:whitesmoke;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+.about_us{
+    color:whitesmoke;
+    margin-left: 5em;
+    margin-top: 3em;
+    
+    color:whitesmoke;
+    
+}
+.ourpartners{
+
+    display: flex;
+    margin-left: 20px;
+}
+.ourpartners h2{ 
+
+        color: black;
+        margin-left: 30px;
+
+
+ }
+
+
+.ourpartners img{
+    background-color: white;
+    display: flex;
+    
+    height: 100px;
+    width: 250px;
+    margin-bottom: 5em;
+    margin-left: 10px;
+
+
+}

@@ -1,0 +1,30 @@
+.headers{
+
+    margin-left:50%;
+}
+.btn{
+    background: #fff;
+    color: darkred;
+    font-size: 1.2em;
+    padding: 5px 30px;
+    text-decoration: none;
+
+
+}
+.btn:hover{
+
+    background: darkred;
+    color: #fff;
+}
+
+<!--z
+// if (isset($_POST['update_data'] ))
+// {
+    // $ID=$_POST['pID'];
+    // $description =$POST['pDescription'];
+    // $price =$_POST['price'];
+    // $stock=$_POST['stockQty'];
+
+    // $query="UPDATE products SET pDescription='$description',price='$price',stockQty='$stock' WHERE pID='$ID'";
+    // $query_run=mysqli_query($conn,$query);
+}
